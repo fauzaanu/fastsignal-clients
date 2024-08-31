@@ -5,4 +5,5 @@ clients for interacting with a [fastsignal](https://github.com/fauzaanu/fastsign
 planned:
 1. Metatrader 4
 2. Metatrader 5
-3. ...
+3. Ctrader
+4. ...
